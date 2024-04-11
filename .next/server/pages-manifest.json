@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/about": "pages/about.js",
+  "/services": "pages/services.js",
+  "/": "pages/index.js",
+  "/reservation": "pages/reservation.js",
+  "/menu": "pages/menu.js",
+  "/testimonial": "pages/testimonial.js",
+  "/contact": "pages/contact.js",
+  "/products/[id]": "pages/products/[id].js"
+}
